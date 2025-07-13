@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/summer-school-react-assignment/static/css/main.cf890fdb.css",
+    "main.js": "/summer-school-react-assignment/static/js/main.a218bc4b.js",
+    "index.html": "/summer-school-react-assignment/index.html",
+    "main.cf890fdb.css.map": "/summer-school-react-assignment/static/css/main.cf890fdb.css.map",
+    "main.a218bc4b.js.map": "/summer-school-react-assignment/static/js/main.a218bc4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.a218bc4b.js"
+  ]
+}
